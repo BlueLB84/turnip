@@ -1,0 +1,27 @@
+{
+  "name": "turnip",
+  "version": "1.0.0",
+  "description": "Time tracking application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueLB84/turnip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueLB84/turnip/issues"
+  },
+  "homepage": "https://github.com/BlueLB84/turnip#readme",
+  "dependencies": {
+    "next": "^8.0.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
